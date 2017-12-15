@@ -1,0 +1,34 @@
+A:\sistema de cursos\SISTEMA DE CURSOS\MultipleCursoss\bin\Debug\Multicursos.exe.config
+A:\sistema de cursos\SISTEMA DE CURSOS\MultipleCursoss\obj\Debug\Multicursos.MultipleCursos12.resources
+A:\sistema de cursos\SISTEMA DE CURSOS\MultipleCursoss\obj\Debug\Multicursos.Presentacion_Estudiamtes.resources
+A:\sistema de cursos\SISTEMA DE CURSOS\MultipleCursoss\obj\Debug\Multicursos.Properties.Resources.resources
+A:\sistema de cursos\SISTEMA DE CURSOS\MultipleCursoss\obj\Debug\Multicursos.Register.resources
+A:\sistema de cursos\SISTEMA DE CURSOS\MultipleCursoss\obj\Debug\Multicursos.INICIO.resources
+A:\sistema de cursos\SISTEMA DE CURSOS\MultipleCursoss\obj\Debug\Multicursos.csproj.GenerateResource.Cache
+A:\sistema de cursos\SISTEMA DE CURSOS\MultipleCursoss\obj\Debug\Multicursos.exe.licenses
+A:\sistema de cursos\SISTEMA DE CURSOS\MultipleCursoss\bin\Debug\Multicursos.exe
+A:\sistema de cursos\SISTEMA DE CURSOS\MultipleCursoss\bin\Debug\Multicursos.pdb
+A:\sistema de cursos\SISTEMA DE CURSOS\MultipleCursoss\obj\Debug\Multicursos.exe
+A:\sistema de cursos\SISTEMA DE CURSOS\MultipleCursoss\obj\Debug\Multicursos.pdb
+A:\sistema de cursos\SISTEMA DE CURSOS\MultipleCursoss\obj\Debug\Multicursos.csprojResolveAssemblyReference.cache
+C:\Users\Isidro Perez A\Desktop\teabajo Completo\SISTEMA DE CURSOS\MultipleCursoss\bin\Debug\Multicursos.exe.config
+C:\Users\Isidro Perez A\Desktop\teabajo Completo\SISTEMA DE CURSOS\MultipleCursoss\obj\Debug\Multicursos.exe
+C:\Users\Isidro Perez A\Desktop\teabajo Completo\SISTEMA DE CURSOS\MultipleCursoss\obj\Debug\Multicursos.pdb
+C:\Users\Isidro Perez A\Desktop\teabajo Completo\SISTEMA DE CURSOS\MultipleCursoss\bin\Debug\Multicursos.exe
+C:\Users\Isidro Perez A\Desktop\teabajo Completo\SISTEMA DE CURSOS\MultipleCursoss\obj\Debug\Multicursos.csprojResolveAssemblyReference.cache
+C:\Users\Isidro Perez A\Desktop\teabajo Completo\SISTEMA DE CURSOS\MultipleCursoss\obj\Debug\Multicursos.MultipleCursos12.resources
+C:\Users\Isidro Perez A\Desktop\teabajo Completo\SISTEMA DE CURSOS\MultipleCursoss\obj\Debug\Multicursos.Presentacion_Estudiamtes.resources
+C:\Users\Isidro Perez A\Desktop\teabajo Completo\SISTEMA DE CURSOS\MultipleCursoss\obj\Debug\Multicursos.Properties.Resources.resources
+C:\Users\Isidro Perez A\Desktop\teabajo Completo\SISTEMA DE CURSOS\MultipleCursoss\obj\Debug\Multicursos.Register.resources
+C:\Users\Isidro Perez A\Desktop\teabajo Completo\SISTEMA DE CURSOS\MultipleCursoss\obj\Debug\Multicursos.INICIO.resources
+C:\Users\Isidro Perez A\Desktop\teabajo Completo\SISTEMA DE CURSOS\MultipleCursoss\obj\Debug\Multicursos.csproj.GenerateResource.Cache
+C:\Users\Isidro Perez A\Desktop\teabajo Completo\SISTEMA DE CURSOS\MultipleCursoss\obj\Debug\Multicursos.exe.licenses
+C:\Users\ryamc\Desktop\teabajo Completo\SISTEMA DE CURSOS\MultipleCursoss\obj\Debug\Multicursos.MultipleCursos12.resources
+C:\Users\ryamc\Desktop\teabajo Completo\SISTEMA DE CURSOS\MultipleCursoss\obj\Debug\Multicursos.Presentacion_Estudiamtes.resources
+C:\Users\ryamc\Desktop\teabajo Completo\SISTEMA DE CURSOS\MultipleCursoss\obj\Debug\Multicursos.Properties.Resources.resources
+C:\Users\ryamc\Desktop\teabajo Completo\SISTEMA DE CURSOS\MultipleCursoss\obj\Debug\Multicursos.Register.resources
+C:\Users\ryamc\Desktop\teabajo Completo\SISTEMA DE CURSOS\MultipleCursoss\obj\Debug\Multicursos.INICIO.resources
+C:\Users\ryamc\Desktop\teabajo Completo\SISTEMA DE CURSOS\MultipleCursoss\obj\Debug\Multicursos.csproj.GenerateResource.Cache
+C:\Users\ryamc\Desktop\teabajo Completo\SISTEMA DE CURSOS\MultipleCursoss\obj\Debug\Multicursos.exe.licenses
+C:\Users\ryamc\Desktop\teabajo Completo\SISTEMA DE CURSOS\MultipleCursoss\bin\Debug\Multicursos.exe.config
+C:\Users\ryamc\Desktop\teabajo Completo\SISTEMA DE CURSOS\MultipleCursoss\obj\Debug\Multicursos.csprojResolveAssemblyReference.cache
